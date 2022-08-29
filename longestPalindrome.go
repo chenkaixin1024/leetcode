@@ -3,6 +3,9 @@ package main
 import "fmt"
 
 
+//题目：最长回文子串
+//leetcode地址：https://leetcode.cn/problems/longest-palindromic-substring/
+
 //动态规划-以map[string]bool存储回文子串，截取子串操作太多，性能较低（应减少子串的截取）
 func longestPalindromeWay1(s string) string{
 
