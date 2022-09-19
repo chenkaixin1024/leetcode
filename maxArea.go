@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-//盛水最多的容器
+//题目：盛水最多的容器
 //leetcode链接：https://leetcode.cn/problems/container-with-most-water/
 
 //双指针法思路：

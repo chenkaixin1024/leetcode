@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-//删除链表的倒数第n个节点
+//题目：删除链表的倒数第n个节点
 //leetcode链接：https://leetcode.cn/problems/remove-nth-node-from-end-of-list/
 
 type ListNode struct{
